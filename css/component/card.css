@@ -1,0 +1,23 @@
+.card{background-color: rgb(9, 62, 136);
+    padding: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 1);
+    margin-bottom: 50px;
+    }
+    
+    .card img{border-radius: 15px;
+        height:268px ;
+        width: 375px;}
+    
+    .card h3{ 
+    padding-left: 40px
+    font size 35px;}
+
+    #card-white{background-color: rgb(255, 255, 255);}
+
+    #card-red{background-color: rgb(117, 29, 11);
+    }
+

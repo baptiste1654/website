@@ -1,0 +1,9 @@
+.btn-blue{font-family: Lato;
+    background-color: rgb(16, 27, 93);
+    padding:15px 20px;
+    border-radius: 8px;
+    color:white;}
+
+.btn-blue:hover { background-color: rgb(102, 115, 205);}
+
+A{text-decoration:solid;}
